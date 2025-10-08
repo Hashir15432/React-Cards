@@ -9,4 +9,5 @@ This is a simple React project that demonstrates how to create beautiful and reu
 - CSS Flexbox / Grid
 
 - ## 📸 Preview
-![Uploading image.png…]()
+
+<img width="1954" height="1170" alt="hotel-app-complete" src="https://github.com/user-attachments/assets/ce0c9c97-744a-42ce-b43c-cb1e2f2fd07b" />
